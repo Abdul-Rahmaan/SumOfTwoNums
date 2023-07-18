@@ -1,0 +1,8 @@
+E:\leetProblems\TwoSum\twoSum\twoSum\bin\Debug\twoSum.exe.config
+E:\leetProblems\TwoSum\twoSum\twoSum\bin\Debug\twoSum.exe
+E:\leetProblems\TwoSum\twoSum\twoSum\bin\Debug\twoSum.pdb
+E:\leetProblems\TwoSum\twoSum\twoSum\obj\Debug\twoSum.csproj.AssemblyReference.cache
+E:\leetProblems\TwoSum\twoSum\twoSum\obj\Debug\twoSum.csproj.SuggestedBindingRedirects.cache
+E:\leetProblems\TwoSum\twoSum\twoSum\obj\Debug\twoSum.csproj.CoreCompileInputs.cache
+E:\leetProblems\TwoSum\twoSum\twoSum\obj\Debug\twoSum.exe
+E:\leetProblems\TwoSum\twoSum\twoSum\obj\Debug\twoSum.pdb
